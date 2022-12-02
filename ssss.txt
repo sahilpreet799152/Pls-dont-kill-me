@@ -1,0 +1,3 @@
+"ip":"Sahilpree128yfJ.aternos.me",
+"port":"57334",
+"name":"pls no killing me"
